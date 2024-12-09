@@ -1,5 +1,7 @@
 # AODK Standalone Mod
 
+Full game enemy drop list with the mod running [here](https://github.com/PyrexBLJ/AODKStandalone/blob/main/TTAODK%20Mod%20Drop%20List.txt)
+
  * Scaling:
      * Game scales to level 32 after TVHM
      * Then up to 35 after the first dragons mission turn in
