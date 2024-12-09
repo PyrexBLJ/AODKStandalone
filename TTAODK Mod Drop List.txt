@@ -1,169 +1,167 @@
 Enemy Drops in the mod: (check the readme for mission rewards)
 
 Mister Boney Pants Guy:
-Hail
-Blockhead
-Commerce
-Invader
-Gub
-Creeper
-Pandemic
+    Hail
+    Blockhead
+    Commerce
+    Invader
+    Gub
+    Creeper
+    Pandemic
 
 chubby bones:
-Infinity
-Regular tubby drops
+    Infinity (idk but its there as its own thing)
+    Regular tubby drops
 
 Arguk the Butcher:
-Mongol
-Bone Shredder
-Chulainn
-Pitchfork
-Thunderball Fists
-Teapot
-Judge
-Stray Kite
+    Mongol
+    Bone Shredder
+    Chulainn
+    Pitchfork
+    Thunderball Fists
+    Teapot
+    Judge
+    Stray Kite
 
 Warlord Grug:
-Kerblaster
-Nukem
-Striker
-Dog
-Harold
-Dahlminator
-Boomboom
-Order
+    Kerblaster
+    Nukem
+    Striker
+    Dog
+    Harold
+    Dahlminator
+    Boomboom
+    Order
 
 Mcnally:
-Roaster
-Tidal Wave
-Sloth
-Fibber
-Cracked Sash
-Fuster Cluck
-Nasty Surprise
-Fabeled Tortoise
+    Roaster
+    Tidal Wave
+    Sloth
+    Fibber
+    Cracked Sash
+    Fuster Cluck
+    Nasty Surprise
+    Fabeled Tortoise
 
 Gar:
-Madhouse
-Pyrophobia
-Creamer
-Octo
-Fermingtons Edge
-Morningstar
-Gunerang
-WTF
+    Madhouse
+    Pyrophobia
+    Creamer
+    Octo
+    Fermingtons Edge
+    Morningstar
+    Gunerang
+    WTF
 
 King Seth:
-Big Thumprr
-Bonus Package
-Black Hole
+    Big Thumprr
+    Bonus Package
+    Black Hole
 
 King Nazar:
-Logans Gun
-Infinity
+    Logans Gun
+    Infinity
 
 King Chrono:
-Teeth of Terra
-Skullmasher
+    Teeth of Terra
+    Skullmasher
 
 King Aliah:
-Stomper
-Norfleet
+    Stomper
+    Norfleet
 
 Greedtooth (Enemy): (i dont actually know how tf this works i think it just kinda gets added to gold golems stuff?)
-Hammer Buster
-Roksalt
-Tresspasser
-Hornet
-Tinderbox
-Rubi
-Pot of Gold (pog)
-Neogenator
-Rolling Thunder
+    Hammer Buster
+    Roksalt
+    Tresspasser
+    Hornet
+    Tinderbox
+    Rubi
+    Pot of Gold (pog)
+    Neogenator
+    Rolling Thunder
 
 Gold Golem:
-Tina COMS
-Sledges Shotgun
-Deliverance
-+ World Drop
+    Tina COMS
+    Sledges Shotgun
+    Deliverance
+    + World Drop
 
 Spiderpants:
-Scorpio
-Shotgun 1340
-Chere-Amie
-Love Thumper
+    Scorpio
+    Shotgun 1340
+    Chere-Amie
+    Love Thumper
 
 Warlord Turge:
-BadaBoom
-Hive
-Triquetra
-Lascaux
-Bad Touch
-Gwens Head
-Veritas
-Fastball
+    BadaBoom
+    Hive
+    Triquetra
+    Lascaux
+    Bad Touch
+    Gwens Head
+    Veritas
+    Fastball
 
 Angel (but spider version):
-Tina COMS
-Veruc
-Bunny
-Heart Breaker
-Slagga
-Lyuda
-Lady Fist
-Bitch
-Flame of the Firehawk
-Cradle
-Bouncing Bonny
-Quasar
+    Tina COMS
+    Veruc
+    Bunny
+    Heart Breaker
+    Slagga
+    Lyuda
+    Lady Fist
+    Bitch
+    Flame of the Firehawk
+    Cradle
+    Bouncing Bonny
+    Quasar
 
-Dragon Bridge Boss (Not Certain):
-Legendary Weapon*
-Tina COMS*
+Dragon Bridge Boss (Not sure if this is the dragon before handsome sourcerer or just more of his drops):
+    Legendary Weapon*
+    Tina COMS*
 
 Handsome Sourcerer:
-Volcano
-Impaler
-Leech
-Flakker
-Conference Call
-Emperor
-Hellfire
-Longbow
-Deadly Bloom
-Hide Of Terramorphous
+    Volcano
+    Impaler
+    Leech
+    Flakker
+    Conference Call
+    Emperor
+    Hellfire
+    Longbow
+    Deadly Bloom
+    Hide Of Terramorphous
 
 Warlord Slog:
-Ogre
-Shredifier
-Cluster Fun
-Landscaper
-Baby Maker
-Buffalo
-Maggie
-Law
-Equitas
+    Ogre
+    Shredifier
+    Cluster Fun
+    Landscaper
+    Baby Maker
+    Buffalo
+    Maggie
+    Law
+    Equitas
 
 Ancient Dragons:
-Legendary Items
-Legendary Weapons
-Legendary Coms
-Omen
-Blockade
-Stinger
-
-
+    Legendary Items
+    Legendary Weapons
+    Legendary Coms
+    Omen
+    Blockade
+    Stinger
 
 Treants:
-Big Thumprr
-Bonus Package
-Black Hole
+    Big Thumprr
+    Bonus Package
+    Black Hole
 
 Pixies:
-Storm front
+    Storm front
 
 Iron golem:
-Lyuda
+    Lyuda
 
 Mimics:
-E-Tech Launchers
+    E-Tech Launchers
