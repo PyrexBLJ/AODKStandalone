@@ -42,8 +42,9 @@ Full game enemy drop list with the mod running [here](https://github.com/PyrexBL
  * Misc Changes:
      * Eridium & Crystal auto pickup
      * Most drop rates have been doubled
-     * Skeleton chest not costs 20 eridium unstead of a key\
-     * Vendor loot has been upgraded across the board\
-     * Travel tunnel has been removed\
-     * The 2 starter chests have been swapped to all blue items\
-     * Minimum gamestage for some items has been decresed to 1 to allow that change\
+     * Skeleton chest not costs 20 eridium unstead of a key
+     * Vendor loot has been upgraded across the board
+     * Travel tunnel has been removed
+     * The 2 starter chests have been swapped to all blue items
+     * Minimum gamestage for some items has been decresed to 1 to allow that change
+	 * Fixed the Stray Kite so it can actually spawn in game
