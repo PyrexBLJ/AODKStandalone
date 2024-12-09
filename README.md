@@ -1,5 +1,6 @@
 # AODK Standalone Mod
 
+Right click > Save page as to download the mod [here](https://raw.githubusercontent.com/PyrexBLJ/AODKStandalone/refs/heads/main/AODKMod.blcm)\
 Full game enemy drop list with the mod running [here](https://github.com/PyrexBLJ/AODKStandalone/blob/main/TTAODK%20Mod%20Drop%20List.txt)
 
  * Scaling:
